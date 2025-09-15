@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f9f9f9;
+}
+
+.navbar {
+    background-color: #003366;
+    padding: 1rem;
+    color: white;
+    font-size: 20px;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+.btn {
+    padding: 8px 15px;
+    border-radius: 6px;
+}
